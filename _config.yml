@@ -17,7 +17,7 @@ title: Ronald Jordan
 email: amisword@gmail.com
 description: I am a died in the wool eclectic learner who has been fortunate to spend my life doing what I love most — giving people the tools to help themselves.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://rdev.co.za" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://rdev.co.za" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: jron82
 github_username:  jron82
 
