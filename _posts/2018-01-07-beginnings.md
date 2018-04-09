@@ -1,6 +1,7 @@
 ---
-layout: post
 title: Beginnings
+date: 2018-01-07 00:00:00 Z
+layout: post
 ---
 
 ![]({{ "/img/sunset-wheat.jpg" | absolute_url }})

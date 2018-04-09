@@ -1,8 +1,7 @@
 ---
-layout: post
 title: Portfolio
+layout: post
 ---
-
 
 Here is a list of the projects I've worked on in no particular order.
 

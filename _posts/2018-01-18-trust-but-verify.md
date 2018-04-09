@@ -1,6 +1,7 @@
 ---
-layout: post
 title: Trust But Verify
+date: 2018-01-18 00:00:00 Z
+layout: post
 ---
 
 ![]({{ "/img/woman-trust.jpg" | absolute_url }})

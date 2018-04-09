@@ -1,9 +1,8 @@
 ---
-layout: page
 title: About Me
-permalink: /about/
+permalink: "/about/"
+layout: page
 ---
-
 
 ![Ronald Jordan]({{ "/img/profile-pic.jpg" | absolute_url }})
 

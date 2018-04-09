@@ -1,6 +1,6 @@
 ---
-layout: post
 title: Resume
+layout: post
 ---
 
 ![Arts and Crafts]({{ "/img/wood-lighting-creativity-paper.jpg" | absolute_url }})
