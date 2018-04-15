@@ -29,34 +29,7 @@ I am so grateful that the programming industry is open to people like myself who
 
 Yet it is incumbent upon us all, but especially to us self-taught programmers, to continually strive for professionalism in everything we do.
 
-And not just for cold-hard career longevity, but for moral reasons.
-
-We all want to live in a world where our data is as safe as it can possibly be. Where we can experience the wonders of what technology can do.
-
-However, if the 20th century has taught us nothing, it has taught us that technology is a Pandora's box that can be used for good and for evil.
-
-I know much has been said of late about Facebook and their lack of scruples. But regardless of who you work for, every developer needs to understand what professionalism means as a community and what it means for you personally.
-
-In my early years, I made plenty of stupid technical decisions that lead to some inconvenient downtime. 
-
-While embarrassing, it was very benign in it's impact. Those sort of impacts can be for the most part guarded against through rigorous adherence to best practices.
-
-What can't be guarded against is the lack of a moral center. In part, because life is a Venn diagram and the domain of writing good code overlaps but is not enveloped by caring about the human cost of the code you write.
-
-This is exactly the moral ambiguity behind the Manhatten project or the Manifesto of Ninety-Three. You had many extremely smart people rigorously pursuing science without thinking of the moral questions behind what they were doing.
-
-Every profession has to wrestle with what it means to be good. Can you be a good doctor and practice euthanasia? 
-
-I think 
-
- 
-
-
-
-
-
-
-
+The world is only becoming more and more connected not less. And it's up to us to do the best job that we can to move civilization forward one deploy at a time.
 
 
 
